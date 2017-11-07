@@ -3,3 +3,5 @@ now it is new file
 34d line
 
 this for branch
+
+stage 
